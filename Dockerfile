@@ -4,5 +4,5 @@ COPY dist /
 
 VOLUME /data
 
-EXPOSE 9000
+EXPOSE 9001
 ENTRYPOINT ["/ui-for-docker"]
